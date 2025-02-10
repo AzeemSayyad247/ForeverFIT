@@ -39,6 +39,7 @@ body {
 .navbar .logo a {
     text-decoration: none;
     color: #ffcd03;
+    font-weight: 400;
 }
 
 .navbar .nav-links {
